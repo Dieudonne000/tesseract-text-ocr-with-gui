@@ -1,3 +1,4 @@
+import utils.session
 import sys
 import cv2
 import pytesseract
